@@ -1,0 +1,60 @@
+{
+  "id": "3b772cef-5c13-4866-a1ca-6c30bc41f914",
+  "name": "test1",
+  "game_version": null,
+  "created_by": "mrsg-jp",
+  "mods": [
+    {
+      "name": "Ascension Unlocker",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "5892b583069f2240409864a95e8a2d1d85d20d1dd70ec762821e8ab5c191dbfc",
+      "files": [
+        "AscensionUnlocker\\AscensionUnlocker.dll",
+        "AscensionUnlocker\\AscensionUnlocker.json"
+      ],
+      "folder_name": "AscensionUnlocker",
+      "mod_id": "AscensionUnlocker",
+      "enabled": true,
+      "bundle_url": "https://github.com/mrsg-jp/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_1bf3664e.zip",
+      "bundle_sha256": "1bf3664ea08bae3c3dfb691afdb63aed0855cdc33ced00df5ef4541232c2294c"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.7",
+      "source": null,
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/mrsg-jp/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_cac7a852.zip",
+      "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
+    },
+    {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "SlaytheSpire2.unlockAll\\mod_manifest.json",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.dll",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pck",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "SlaytheSpire2.unlockAll",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mrsg-jp/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_71379293.zip",
+      "bundle_sha256": "7137929321cc50adf7c8ce797002887c12f9e8e2e7a7e196d0e1a018c946b6c3"
+    }
+  ],
+  "created_at": "2026-06-19T15:28:58.536511500Z",
+  "updated_at": "2026-06-19T15:28:58.650503500Z",
+  "public": false
+}
