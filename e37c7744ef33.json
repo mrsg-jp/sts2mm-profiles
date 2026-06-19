@@ -1,0 +1,77 @@
+{
+  "id": "2a29cf22-439e-4593-b218-dd0feaa3bab3",
+  "name": "test2",
+  "game_version": null,
+  "created_by": "mrsg-jp",
+  "mods": [
+    {
+      "name": "Ascension Unlocker",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "5892b583069f2240409864a95e8a2d1d85d20d1dd70ec762821e8ab5c191dbfc",
+      "files": [
+        "AscensionUnlocker\\AscensionUnlocker.dll",
+        "AscensionUnlocker\\AscensionUnlocker.json"
+      ],
+      "folder_name": "AscensionUnlocker",
+      "mod_id": "AscensionUnlocker",
+      "enabled": true,
+      "bundle_url": "https://github.com/mrsg-jp/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_1bf3664e.zip",
+      "bundle_sha256": "1bf3664ea08bae3c3dfb691afdb63aed0855cdc33ced00df5ef4541232c2294c"
+    },
+    {
+      "name": "GakuIm@sts",
+      "version": "0.9.2",
+      "source": null,
+      "hash": "07c37e5b8a47dc225541a477ae5834d280ad3918c5aca88ca7e454d2c9ecf6c2",
+      "files": [
+        "GakuIm@sts\\GakuIm@sts.dll",
+        "GakuIm@sts\\GakuIm@sts.json",
+        "GakuIm@sts\\GakuIm@sts.pck",
+        "GakuIm@sts\\sprite_kit_config.cfg"
+      ],
+      "folder_name": "GakuIm@sts",
+      "mod_id": "GakuIm@sts",
+      "enabled": true,
+      "bundle_url": "https://github.com/mrsg-jp/sts2mm-profiles/releases/download/bundles/GakuIm%40sts_v0.9.2_f7d7363f.zip",
+      "bundle_sha256": "f7d7363f566bdf6ef4fcc672aeacd67e5115265e8ba9c3d31946ab711c253afc"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.7",
+      "source": null,
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/mrsg-jp/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_cac7a852.zip",
+      "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
+    },
+    {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "SlaytheSpire2.unlockAll\\mod_manifest.json",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.dll",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pck",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "SlaytheSpire2.unlockAll",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mrsg-jp/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_71379293.zip",
+      "bundle_sha256": "7137929321cc50adf7c8ce797002887c12f9e8e2e7a7e196d0e1a018c946b6c3"
+    }
+  ],
+  "created_at": "2026-06-19T16:16:13.290359Z",
+  "updated_at": "2026-06-19T16:16:13.455650600Z",
+  "public": false
+}
